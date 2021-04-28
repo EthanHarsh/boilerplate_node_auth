@@ -7,11 +7,11 @@ This project was initially created following [Web Dev Simplified's Youtube Tutor
 ## Description
 I needed some easy template files for Node.js authentication.
 Templates wanted:
-- Login Landing Page
-- Login Page
-- Login Form
-- Register Page
-- Register Form
+- Login landing page
+- Login page
+- Login form
+- Register page
+- Register form
 - Basic user name storage function
 - Basic password storage function [(secure)](https://www.bigomega.dev/passwords-in-node)
 - Basic authentication function
@@ -28,9 +28,9 @@ Templates wanted:
 - [Bootstrap](https://getbootstrap.com/)
 - [UI Basics](https://uxdesign.cc/how-to-become-a-ui-ux-designer-self-taught-8a511170fd7c)
 ## Resources
-- Design -> [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
-- General Reference -> [MDN](https://developer.mozilla.org/en-US/)
 - [Tutorial](https://www.youtube.com/watch?v=-RCnNyD0L-s&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ)
 - [Node.js Documentation](https://nodejs.org/en/docs/)
 - [Express](https://expressjs.com/)
 - [bcrypt](https://openbase.com/js/bcrypt/documentation)
+- **Design ->** [Bootstrap](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+- **General Reference ->** [MDN](https://developer.mozilla.org/en-US/)
