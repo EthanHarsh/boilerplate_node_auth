@@ -1,5 +1,4 @@
-# 22-Stu_Mini-Project-OSU_Bootcamp-Unit-1
-## 01-HTML-Git-CSS-Mini-Project
+# Boilerplate Node Authorization
 ![Node.js Badge](https://img.shields.io/badge/JavaScript-Node.js-green) ![Advanced CSS Badge](https://img.shields.io/badge/CSS-Advanced-green) ![Bootstap CSS Badge](https://img.shields.io/badge/CSS-Bootstrap-green) ![EJS Badge](https://img.shields.io/badge/EJS-Templates-green) ![Learn Authentication Badge](https://img.shields.io/badge/Learn-Authentication-blue) ![YouTube Badge](https://img.shields.io/badge/YouTube-Tutorial-red)
 
 This project was initially created following [Web Dev Simplified's Youtube Tutorial](https://www.youtube.com/watch?v=-RCnNyD0L-s&list=PLZlA0Gpn_vH9yI1hwDVzWqu5sAfajcsBQ)
